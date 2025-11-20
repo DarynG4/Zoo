@@ -1,0 +1,33 @@
+* {
+  background-color: rgba(rgb(225, 225, 225));
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 2rem;
+  line-height: 2.8rem;
+}
+
+h2 {
+  font-weight: 200;
+  font-size: 1.35rem;
+  line-height: 1.5rem;
+}
+
+a {
+  color: rgba(176, 17, 17);
+  padding: 3px;
+}
+
+a:hover {
+  color: rgba(0, 0, 0);
+  background-color: rgba(176, 17, 17, 0.2);
+}
+
+p {
+  color: rgba(0, 0, 0);
+  font-style: oblique;
+  font-weight: 600;
+  font-size: 1rem;
+}
